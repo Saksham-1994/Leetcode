@@ -37,3 +37,7 @@
 2026.06.29 10:06:41 WARN  Running javac-semanticdb failed for file:///Users/saksham/Desktop/Leetcode/1967lc.java. Output:
 
 2026.06.29 10:06:41 INFO  no build target found for /Users/saksham/Desktop/Leetcode/1967lc.java. Using fallback presentation compiler.
+2026.06.29 10:09:25 WARN  no build target for: /Users/saksham/Desktop/Leetcode/1967lc.java
+2026.06.29 10:09:25 INFO  no build target found for /Users/saksham/Desktop/Leetcode/1967lc.java. Using fallback presentation compiler.
+Jun 29, 2026 10:10:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
